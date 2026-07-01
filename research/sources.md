@@ -87,11 +87,11 @@ Add one entry per expert, in the format below, as each is verified.
 
 ---
 
-## Joanna Wiebe
-- Platform(s): YouTube
-- Link: https://www.youtube.com/@joanna-wiebe, https://www.linkedin.com/in/jwiebe/, https://copyhackers.com/
-- Why they're credible: Founder of Copyhackers, a long-running conversion copywriting company/resource; runs her own YouTube channel sharing specific, named content strategy frameworks (e.g. "The Top 7 Content Strategies To Get Ahead of Everyone Else") backed by her copywriting track record rather than generic advice. No matching LinkedIn post found (see `research/other/joanna-wiebe-linkedin-note.md`).
-- Content collected: 1 YouTube transcript ("The Top 7 Content Strategies To Get Ahead of Everyone Else"), 0 LinkedIn posts (none found)
+## Jake Trinder
+- Platform(s): YouTube / LinkedIn
+- Link: https://www.youtube.com/@jaketrinder, https://www.linkedin.com/in/jaketrinder/
+- Why they're credible: Runs his own YouTube channel teaching YouTube growth strategy and shares specific, checkable claims (e.g. "got 500K+ views on a B2B YouTube video" via a named content-gap methodology) rather than generic advice. Caveat: his content is general YouTube strategy applicable to any business, not B2B SaaS-specific, though he explicitly cites a B2B YouTube video as his proof point — included as adjacent, broadly-applicable strategy.
+- Content collected: 1 YouTube transcript ("Use This Algorithm, It'll Blow Up Your YouTube Channel"), 1 LinkedIn post ("I got 500K+ views on a B2B YouTube video using this content-gap strategy...")
 - Date reviewed: 2026-07-02
 
 ---
