@@ -42,6 +42,15 @@ Add one entry per expert, in the format below, as each is verified.
 
 ---
 
+## Matt Gray
+- Platform(s): YouTube / LinkedIn
+- Link: https://www.youtube.com/@realmattgray, https://www.linkedin.com/in/mattgray1/
+- Why they're credible: Founder of Founder OS, runs his own YouTube channel and posts named, specific frameworks (Strategic Content Matrix, Content Ecosystem Framework) rather than generic advice — a genuine practitioner across two formats. Caveat: his content is general founder/creator content strategy, not YouTube-specific or B2B SaaS-specific — included as adjacent, broadly-applicable strategy rather than a direct niche match.
+- Content collected: 1 YouTube transcript ("copy this content strategy, it'll blow up your business"), 1 LinkedIn post ("I audited a founder's content last week...")
+- Date reviewed: 2026-07-02
+
+---
+
 ## [Name]
 - Platform(s): YouTube / LinkedIn / Podcast
 - Link: [channel or profile URL]
