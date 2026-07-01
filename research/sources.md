@@ -24,6 +24,15 @@ Add one entry per expert, in the format below, as each is verified.
 
 ---
 
+## Sam Oh
+- Platform(s): YouTube
+- Link: https://www.youtube.com/@AhrefsCom, https://www.linkedin.com/in/sam-o-84593014/?skipRedirect=true
+- Why they're credible: Presents Ahrefs' YouTube SEO / AEO course content on the Ahrefs channel — a named, checkable track record producing YouTube-specific, tactical B2B SaaS content for a major SaaS brand. LinkedIn profile has no post activity to collect (see `research/other/sam-oh-linkedin-note.md`).
+- Content collected: 2 YouTube transcripts ("YouTube SEO for AI Search: How to Rank your YouTube Videos | 3.3. AEO Course by Ahrefs", "YouTube SEO: How to Rank YouTube Videos #1"), 0 LinkedIn posts (no content posted)
+- Date reviewed: 2026-07-02
+
+---
+
 ## [Name]
 - Platform(s): YouTube / LinkedIn / Podcast
 - Link: [channel or profile URL]
