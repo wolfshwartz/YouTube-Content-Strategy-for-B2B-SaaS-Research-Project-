@@ -17,6 +17,7 @@ import argparse
 import json
 import re
 import sys
+import unicodedata
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -53,6 +54,7 @@ def get_video_title(url: str) -> str:
 
 
 def slugify(text: str) -> str:
+    text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
     text = text.lower().strip()
     text = re.sub(r"[^a-z0-9]+", "-", text)
     return text.strip("-")[:80] or "untitled"
