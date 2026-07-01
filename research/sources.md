@@ -33,6 +33,15 @@ Add one entry per expert, in the format below, as each is verified.
 
 ---
 
+## Kyle Denhoff
+- Platform(s): YouTube / Podcast
+- Link: https://www.linkedin.com/in/kyledenhoff/
+- Why they're credible: Senior Director of Marketing at HubSpot, managing 12+ YouTube channels for the company; gives structural, specific advice (channel architecture, content format decisions) as a named guest on B2B marketing podcasts rather than uploading to his own channel. LinkedIn has no matching post to collect (see `research/other/kyle-denhoff-linkedin-note.md`).
+- Content collected: 2 YouTube transcripts ("Practical Ideas to Improve Your Content Strategy - Kyle Denhoff" on Haley Marketing, "Ep 38: The YouTube B2B Practitioner's Playbook with Kyle Denhoff" on Weidert Group), 0 LinkedIn posts (none found)
+- Date reviewed: 2026-07-02
+
+---
+
 ## [Name]
 - Platform(s): YouTube / LinkedIn / Podcast
 - Link: [channel or profile URL]
