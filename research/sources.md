@@ -78,6 +78,15 @@ Add one entry per expert, in the format below, as each is verified.
 
 ---
 
+## Ed Lawrence
+- Platform(s): YouTube / LinkedIn
+- Link: https://www.youtube.com/@ed-lawrence, https://www.linkedin.com/in/edmund-lawrence-esq/
+- Why they're credible: Runs his own YouTube channel teaching YouTube growth strategy, backed by his own analysis of 40 world-class channels (a checkable, specific claim, not generic advice); posts frequently and specifically on LinkedIn. Caveat: his content is general YouTube/business strategy, not B2B SaaS-specific — included as adjacent, broadly-applicable strategy rather than a direct niche match.
+- Content collected: 1 YouTube transcript ("Copy This YouTube Strategy, It'll Blow Up Your Business"), 1 LinkedIn post ("Most people fail on YouTube because they think its a game of always getting more views...")
+- Date reviewed: 2026-07-02
+
+---
+
 ## [Name]
 - Platform(s): YouTube / LinkedIn / Podcast
 - Link: [channel or profile URL]
