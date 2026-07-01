@@ -1,6 +1,6 @@
 ---
 author: Greg Miroslaw
-post_date:
+post_date: 07/02/2026
 url: https://www.linkedin.com/in/grzegorz-miros%C5%82aw/
 ---
 
