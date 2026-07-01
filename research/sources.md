@@ -87,6 +87,15 @@ Add one entry per expert, in the format below, as each is verified.
 
 ---
 
+## Joanna Wiebe
+- Platform(s): YouTube
+- Link: https://www.youtube.com/@joanna-wiebe, https://www.linkedin.com/in/jwiebe/, https://copyhackers.com/
+- Why they're credible: Founder of Copyhackers, a long-running conversion copywriting company/resource; runs her own YouTube channel sharing specific, named content strategy frameworks (e.g. "The Top 7 Content Strategies To Get Ahead of Everyone Else") backed by her copywriting track record rather than generic advice. No matching LinkedIn post found (see `research/other/joanna-wiebe-linkedin-note.md`).
+- Content collected: 1 YouTube transcript ("The Top 7 Content Strategies To Get Ahead of Everyone Else"), 0 LinkedIn posts (none found)
+- Date reviewed: 2026-07-02
+
+---
+
 ## [Name]
 - Platform(s): YouTube / LinkedIn / Podcast
 - Link: [channel or profile URL]
