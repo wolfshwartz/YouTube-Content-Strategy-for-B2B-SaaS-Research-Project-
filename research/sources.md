@@ -60,6 +60,15 @@ Add one entry per expert, in the format below, as each is verified.
 
 ---
 
+## TK Kader
+- Platform(s): YouTube / LinkedIn
+- Link: https://www.youtube.com/@TKKader, https://www.linkedin.com/in/tkkader/
+- Why they're credible: 20+ year SaaS founder/operator who has used content marketing to grow multiple SaaS businesses; runs his own YouTube channel with direct, on-niche content (e.g. "If I Started in 2026, Here's My B2B SaaS Content Strategy for $1M ARR") and shares a named, specific 3-point framework on LinkedIn rather than generic advice.
+- Content collected: 1 YouTube transcript ("If I Started in 2026, Here's My B2B SaaS Content Strategy for $1M ARR"), 1 LinkedIn post ("For every SaaS business I've grown, I've leveraged Content Marketing...")
+- Date reviewed: 2026-07-02
+
+---
+
 ## [Name]
 - Platform(s): YouTube / LinkedIn / Podcast
 - Link: [channel or profile URL]
