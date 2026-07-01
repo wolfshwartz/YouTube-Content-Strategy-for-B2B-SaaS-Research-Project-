@@ -51,6 +51,15 @@ Add one entry per expert, in the format below, as each is verified.
 
 ---
 
+## Marlon Doll
+- Platform(s): YouTube
+- Link: https://www.youtube.com/@VireoVideo, https://www.linkedin.com/in/marlondoll/, https://www.linkedin.com/company/vireovideo/
+- Why they're credible: Runs Vireo Video, an agency specifically focused on growing SaaS companies' YouTube channels; his own channel covers the exact niche directly (e.g. "How to Grow your SaaS YouTube Channel") rather than generic content advice. Neither his personal nor company LinkedIn post much — no matching post found (see `research/other/marlon-doll-linkedin-note.md`).
+- Content collected: 1 YouTube transcript ("How to Grow your SaaS YouTube Channel"), 0 LinkedIn posts (none found)
+- Date reviewed: 2026-07-02
+
+---
+
 ## [Name]
 - Platform(s): YouTube / LinkedIn / Podcast
 - Link: [channel or profile URL]
