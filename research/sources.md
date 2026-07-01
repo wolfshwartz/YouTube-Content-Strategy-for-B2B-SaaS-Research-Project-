@@ -10,7 +10,7 @@ Add one entry per expert, in the format below, as each is verified.
 - Platform(s): YouTube / LinkedIn
 - Link: https://www.youtube.com/@SamuKovacs
 - Why they're credible: Founder of KS Media, a YouTube-first agency running channel strategy for 40+ B2B SaaS clients; speaks in specifics (framework + real numbers, e.g. "$320M/yr SaaS YouTube Strategy") on his own channel rather than generic advice.
-- Content collected: 1 YouTube transcript ("I Built a $320M/yr SaaS YouTube Strategy (LIVE)"), 1 LinkedIn post (text pending manual entry)
+- Content collected: 1 YouTube transcript ("I Built a $320M/yr SaaS YouTube Strategy (LIVE)"), 1 LinkedIn post ("Calendly makes $320M/yr...")
 - Date reviewed: 2026-07-02
 
 ---
