@@ -69,6 +69,15 @@ Add one entry per expert, in the format below, as each is verified.
 
 ---
 
+## Austin Schneider
+- Platform(s): YouTube
+- Link: https://www.youtube.com/@InstantlyAI, https://www.linkedin.com/in/austinrschneider/, https://www.linkedin.com/company/instantlyapp/
+- Why they're credible: Hosts B2B marketing content on Instantly's own YouTube channel, covering YouTube strategy as one element of a broader B2B content playbook; Instantly is a SaaS company that visibly applies these strategies through its own channel rather than just talking about them. No matching LinkedIn post found (see `research/other/austin-schneider-linkedin-note.md`).
+- Content collected: 1 YouTube transcript ("12 B2B Marketing Strategies For 2025"), 0 LinkedIn posts (none found)
+- Date reviewed: 2026-07-02
+
+---
+
 ## [Name]
 - Platform(s): YouTube / LinkedIn / Podcast
 - Link: [channel or profile URL]
