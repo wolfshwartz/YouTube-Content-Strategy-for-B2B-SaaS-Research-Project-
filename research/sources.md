@@ -15,6 +15,15 @@ Add one entry per expert, in the format below, as each is verified.
 
 ---
 
+## Greg Miroslaw
+- Platform(s): YouTube / LinkedIn
+- Link: https://www.youtube.com/@gregmiroslaw, https://www.linkedin.com/in/grzegorz-miros%C5%82aw/
+- Why they're credible: Runs his own YouTube channel ("Greg Miroslaw - YouTube to Clients") teaching agencies to use YouTube as a client-acquisition channel; content is built around specific buyer psychology and objection-handling frameworks rather than generic "post more" advice, and he practices what he teaches on his own channel.
+- Content collected: 1 YouTube transcript ("How To Get SaaS Clients From YouTube in 2026 (Complete Strategy)"), 1 LinkedIn post ("how to sign $5k - $10k/mo agency clients with YouTube")
+- Date reviewed: 2026-07-02
+
+---
+
 ## [Name]
 - Platform(s): YouTube / LinkedIn / Podcast
 - Link: [channel or profile URL]
