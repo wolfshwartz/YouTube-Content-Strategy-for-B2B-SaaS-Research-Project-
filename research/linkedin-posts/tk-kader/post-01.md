@@ -1,6 +1,6 @@
 ---
 author: TK Kader
-post_date:
+post_date: 05/18/2025
 url: https://www.linkedin.com/posts/tkkader_if-i-started-saas-in-2025-heres-my-b2b-share-7329902612735033344-AjnT/
 ---
 

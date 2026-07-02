@@ -1,6 +1,6 @@
 ---
 author: Ed Lawrence
-post_date:
+post_date: 06/30/2026
 url: https://www.linkedin.com/feed/update/urn:li:activity:7477390494143205376/
 ---
 

@@ -1,6 +1,6 @@
 ---
 author: Matt Gray
-post_date: 02/02/2026
+post_date: 01/13/2026
 url: https://www.linkedin.com/posts/mattgray1_quality-over-quantity-ugcPost-7416809306010066945-E5oT/
 ---
 

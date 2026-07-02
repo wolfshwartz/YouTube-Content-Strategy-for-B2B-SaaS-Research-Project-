@@ -1,6 +1,6 @@
 ---
 author: Jake Trinder
-post_date:
+post_date: 07/19/2025
 url: https://www.linkedin.com/posts/jaketrinder_i-got-500k-views-on-a-b2b-youtube-video-share-7352357875035377665-ttO6/
 ---
 
