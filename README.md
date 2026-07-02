@@ -17,7 +17,7 @@ I picked each expert against the same bar: a real, checkable channel or track re
 - **Kyle Denhoff** runs YouTube channel strategy in-house at HubSpot, giving an operator's view from inside a large SaaS company rather than an agency's outside view.
 
 **Adjacent picks, included deliberately (3):**
-- **Matt Gray**, **Ed Lawrence**, and **Jake Trinder** aren't B2B SaaS-specific, but their tactics (packaging, hooks, content-gap analysis, repurposing systems) turned out to be the same mechanics the SaaS-specific experts use — I kept them to round out the tactical detail with sources that go deeper on YouTube growth mechanics than the SaaS-focused channels do.
+- **Matt Gray**, **Ed Lawrence**, and **Jake Trinder** aren't B2B SaaS-specific, but their tactics (packaging, hooks, content-gap analysis, repurposing systems) turned out to be the same mechanics the SaaS-specific experts use. I kept them to round out the tactical detail with sources that go deeper on YouTube growth mechanics than the SaaS-focused channels do.
 
 Balancing it this way meant every "how do you actually grow on YouTube" tactic had a SaaS-specific example *and* a deeper, more tactical adjacent source to cross-check it against.
 
