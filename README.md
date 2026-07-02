@@ -6,6 +6,21 @@ I choose this topic from my genuine interest in B2B YouTube strategy as a niche.
 
 I found and reviewed 10 experts who actively build content strategy. Some of them provide exact Youtube content strategy for B2B SaaS, but some others are more broad on content strategy that specifying about growing Youtube channels and gain leads which still applicable for B2B SaaS to grow their Youtube channel. See `/research/sources.md` for the full list with links and annotations.
 
+### Why these 10
+
+I picked each expert against the same bar: a real, checkable channel or track record, specific claims (numbers, named frameworks, named clients) instead of generic advice, and recent activity — not agency "best of" roundups.
+
+**Direct B2B SaaS YouTube fit (7):**
+- **Samu Kovács** and **Marlon Doll** run agencies (KS Media, Vireo Video) whose entire business is growing YouTube channels for SaaS companies — their content comes from real client work (Calendly, GitHub), not theory.
+- **Greg Miroslaw** and **TK Kader** are practitioners applying the strategy to their own SaaS/agency growth, with checkable numbers behind their claims.
+- **Sam Oh** and **Austin Schneider** front YouTube content for SaaS brands (Ahrefs, Instantly) that are themselves proof the strategy works — the company visibly practices what the video teaches.
+- **Kyle Denhoff** runs YouTube channel strategy in-house at HubSpot, giving an operator's view from inside a large SaaS company rather than an agency's outside view.
+
+**Adjacent picks, included deliberately (3):**
+- **Matt Gray**, **Ed Lawrence**, and **Jake Trinder** aren't B2B SaaS-specific, but their tactics (packaging, hooks, content-gap analysis, repurposing systems) turned out to be the same mechanics the SaaS-specific experts use — I kept them to round out the tactical detail with sources that go deeper on YouTube growth mechanics than the SaaS-focused channels do.
+
+Balancing it this way meant every "how do you actually grow on YouTube" tactic had a SaaS-specific example *and* a deeper, more tactical adjacent source to cross-check it against.
+
 Collected 12 YouTube transcripts and 6 LinkedIn posts, organized by author in `/research/youtube-transcripts/` and `/research/linkedin-posts/`. Where no matching LinkedIn content existed, that's documented in `/research/other/`.
 
 Key patterns I noticed across sources:
