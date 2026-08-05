@@ -1,5 +1,7 @@
 # YouTube-Content-Strategy-for-B2B-SaaS-Research-Project-
 
+**[Read the playbook →](PLAYBOOK.md)** A step-by-step SOP for running a B2B SaaS YouTube channel, built from this research. Every recommendation is cited, and it includes where the experts contradict each other, what I rejected, my own additions, and an honest account of what it gets wrong.
+
 ## Research: YouTube Content Strategy for B2B SaaS
 
 I choose this topic from my genuine interest in B2B YouTube strategy as a niche. I see a growth and opportunity for every B2B founders who want to do a branding and grow their reputation by using Youtube. For me, Youtube provides both short form and long form content which suits for SaaS business who want to walkthrough their products or even do short content to gain attraction which exceeds other social platform performance in terms of visualization. This topic turned out to be a live active space right now with real named experts producing recent specific content rather than recycled agency listicles.
