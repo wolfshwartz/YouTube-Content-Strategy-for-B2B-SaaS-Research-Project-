@@ -409,27 +409,47 @@ Every playbook has weak spots. Most do not tell you where they are. Here are min
 
 ## Who I would NOT recommend following, and why
 
-To be fair to everyone here: all ten met the bar for inclusion, and none is a fraud. This section is about who I would not point a B2B SaaS marketer to *for this specific topic*.
+To be clear about what this section is and is not: all ten cleared the bar to be researched, and none of them is a fraud. The question here is narrower. **If a junior B2B SaaS marketer asked me who to learn this topic from, who would I steer them away from?**
 
-### 1. Matt Gray, for this topic
+| Expert | My verdict | Go here instead |
+|---|---|---|
+| **Matt Gray** | Skip for this topic | Samu Kovács or Marlon Doll, for the same funnel ideas with real SaaS evidence |
+| **Austin Schneider** | Study his channel, not this video | Greg Miroslaw, who analyses that same channel properly |
+| **Jake Trinder** | Take one method, leave the rest | Keep his research check, ignore his scale |
 
-**Why not.** His content is general founder and creator-economy content strategy, and the evidence he offers is his own newsletter and personal channel growth, not a B2B SaaS outcome. His central prescription, the 26-piece content waterfall, is the one recommendation in the set that directly contradicts the two most credible sources on channel focus (see [What I rejected, 1](#1-matt-grays-content-waterfall-as-a-starting-point)), and it is volume-first advice offered under a "quality over quantity" headline.
+### 1. Matt Gray: skip him for this topic
 
-There is also a specific accuracy problem that changed how much weight I gave him. In the same LinkedIn post, he introduces "The Content Quality Checklist" with "run it through these 5 checks" and then lists four (source: Matt Gray, LinkedIn, 13.01.2026). It is a small error, but the entire value proposition of a named proprietary framework is that it has been used enough times to be reliable, and a framework whose author miscounts its own steps in a post about quality control has probably not been stress-tested much. Combined with the video functioning largely as a funnel into his paid product, I would send a B2B SaaS marketer to Samu Kovács or Marlon Doll for the same funnel concepts, better evidenced and actually about SaaS.
+**Short version.** He is a real expert on personal-brand content. Almost nothing in what I collected is about B2B SaaS, and you can get the same ideas better evidenced elsewhere.
 
-**Where he is still worth reading:** solo founders building a personal brand across platforms, which is genuinely his domain.
+**Why not:**
 
-### 2. Austin Schneider, for this topic
+1. **Wrong subject.** His advice is about founders building a personal brand, and his proof is his own newsletter and channel growth. There is no B2B SaaS result anywhere in it.
+2. **His main idea contradicts the best advice in this set.** The 26-piece content waterfall tells you to spread across every platform, while the two most credible sources both say concentrate (see [What I rejected, 1](#1-matt-grays-content-waterfall-as-a-starting-point)). It is volume advice published under a "quality over quantity" headline.
+3. **A small error that told me something.** In that same post he introduces a checklist with "run it through these 5 checks", then lists four (source: Matt Gray, LinkedIn, 13.01.2026 — https://www.linkedin.com/posts/mattgray1_quality-over-quantity-ugcPost-7416809306010066945-E5oT/). Trivial on its own. But the whole selling point of a named framework is that it has been used enough times to be dependable, and a quality-control checklist whose author miscounts its own steps has probably not been used that much.
+4. **The video is largely a funnel** into his paid product.
 
-**Why not.** Three reasons, in increasing order of seriousness. First, relevance: YouTube is item 4 of 12 in his video, and his treatment of it is roughly two minutes of general encouragement, so the topical yield is thin. Second, an internal factual inconsistency: within one segment he cites 64% of executives using Meta and then 68% of executives using it, and none of his statistics carry a named source beyond one attribution to Salesforce (source: Austin Schneider, YouTube, 18.04.2025). Third, and most substantively, the research method he prescribes looks only inside your own niche, which caps you at parity with every competitor running the same searches, and is contradicted by two other sources in this set (see [What I rejected, 2](#2-austin-schneiders-in-niche-research-method)). His phrasing there is also loose enough that a beginner could read it as remaking a competitor's video, though the surrounding context indicates he does not mean that.
+**Still worth reading if:** you are a solo founder building a personal brand across several platforms. That is genuinely his field, and he is good at it.
 
-The conflict of interest is also the sharpest in the set. The video is published on Instantly's own channel, and the strategy he advocates most strongly and at greatest length is cold email, which is Instantly's product, with an extended walkthrough of the tool. That does not make the cold email advice wrong, and Instantly's channel is genuinely a strong example of B2B SaaS YouTube done well, which is why Greg Miroslaw uses it as his positive case. But it makes this particular video an advertisement first and a strategy resource second.
+### 2. Austin Schneider: study his channel, not this video
 
-**Where he is still worth reading:** as a *specimen* rather than a *source*. Instantly's channel is one of the best-executed B2B SaaS YouTube channels in this research, and studying what they do is more instructive than this video about what they do.
+**Short version.** Instantly's channel is one of the best B2B SaaS channels in this entire research set. This particular video is not a good guide to how they built it.
 
-### 3. Jake Trinder, with a caveat rather than a rejection
+**Why not:**
 
-I stop short of a full "do not follow" here, because his outlier-verification method ([1.4](#phase-1-research-find-the-topics-before-you-script)) is the sharpest single piece of methodology I found. But his headline prescription is unusable at the scale most readers operate at, he dismisses tools he then uses on camera minutes later, and the video's function is to sell a done-for-you service and an inner circle. Take the method, ignore the scale.
+1. **Barely about the topic.** YouTube is item 4 of 12, and gets roughly two minutes of general encouragement.
+2. **The research method is weak.** He tells you to research only your own niche, which caps you at matching competitors who are running the same searches, and two other sources in this set contradict him directly (see [What I rejected, 2](#2-austin-schneiders-in-niche-research-method)).
+3. **A statistic that contradicts itself.** Within one segment he cites 64% of executives using Meta, then 68% (source: Austin Schneider, YouTube, 18.04.2025 — https://www.youtube.com/watch?v=KtX1srhbC2k). Almost none of his numbers carry a named source.
+4. **It is an advertisement.** The video sits on Instantly's channel, and the strategy he pushes hardest and longest is cold email, which is Instantly's product, complete with a tool walkthrough. That does not make the cold email advice wrong. It does make this an advert first and a strategy resource second.
+
+**Still worth reading if:** you treat it as a *specimen* rather than a *source*. Go and study what Instantly's channel actually does, which is exactly why Greg Miroslaw uses it as his positive example. Watching that channel teaches you more than this video about that channel.
+
+### 3. Jake Trinder: take one method, leave the rest
+
+**Short version.** Not a rejection. One piece of his advice is the sharpest thing I found anywhere in this research. The rest is built for a budget you do not have.
+
+**Take this:** before copying a video that looks like a hit, check its comment count against its view count and look at its view graph. A big number with little engagement usually means traffic was pushed to it rather than earned ([1.4](#phase-1-research-find-the-topics-before-you-script)). No other source in this set does this, and every other source treats high view counts as proof.
+
+**Leave this:** hundreds of research hours a week and over $200,000 a month. That describes an agency you could hire, not a process you can run. He also dismisses vidIQ and 1of10 as giving no advantage, then uses both on camera minutes later, and the video's purpose is to sell a done-for-you service.
 
 ---
 
