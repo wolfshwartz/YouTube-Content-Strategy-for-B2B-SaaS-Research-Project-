@@ -4,30 +4,9 @@ An operating procedure for a B2B SaaS company starting or restarting a YouTube c
 
 **Who this is for:** a marketing team of one to five people at a B2B SaaS company with a self-serve or sales-assisted motion. It is not written for enterprise ABM-led companies with 12-month sales cycles, and I explain why in [Weaknesses](#weaknesses-of-this-playbook).
 
-**How to read the citations:** every recommendation carries its source and date. Where sources disagree, the recommendation says so and points to [Where experts disagree](#where-experts-disagree). Where I am extending past what a source actually said, it is marked **[my inference]**.
+**How to read the citations:** every recommendation carries its source and date. Where I am extending past what a source actually said, it is marked **[my inference]**.
 
----
-
-## The judgment calls, in one place
-
-Phases 0 to 7 are largely a synthesis of what ten practitioners said. This table is the part that is mine: every point where I chose between sources, refused advice, or added something none of them offered. Start here if you want to know what I actually think.
-
-| The call | What I decided |
-|---|---|
-| Keyword titles or editorial hooks? | Neither, exactly. It depends on how the viewer arrived, a split neither source makes → [D1](#disagreement-1-keyword-first-titles-vs-editorial-hooks) |
-| Where to start in the funnel | At the bottom, against two of the three SaaS-specific sources → [D2](#disagreement-2-where-to-start-in-the-funnel) |
-| How long should videos be? | Let the question decide, and I distrust the one hard number given → [D3](#disagreement-3-video-length) |
-| Expensive research or cheap tools? | Take the reasoning, reject the scale, and the "tools give no edge" claim is wrong → [D4](#disagreement-4-research-tooling-proprietary-depth-vs-commodity-tools) |
-| Should the founder be on camera? | Wrong question. Ask who will still be filming in 12 months → [D5](#disagreement-5-who-should-be-on-camera) |
-| Repurpose one video into 26 | **Rejected** as a starting point. It scales unvalidated content → [R1](#1-matt-grays-content-waterfall-as-a-starting-point) |
-| Research your own niche | **Rejected.** Your competitors run the same search, so it caps you at parity → [R2](#2-austin-schneiders-in-niche-research-method) |
-| Pay creators for reach early | **Rejected** as a foundation. You rent an audience instead of building one → [R3](#3-paid-creator-partnerships-as-an-early-stage-growth-lever) |
-| What decides your next video | **Mine:** lost deals, not search volume → [O1](#original-idea-1-let-your-lost-deals-pick-your-next-video) |
-| How you know it is not working | **Mine:** write the failure numbers down before video one → [O2](#original-idea-2-decide-what-failure-looks-like-before-you-publish-video-one) |
-
-**Three claims I did not take at face value:** Ahrefs' 0.737 AI-visibility correlation, sold by the company that measures it ([6.4](#phase-6-publish-and-optimise)); Samu Kovács's month-by-month growth curve, which is a pitch to a prospect rather than a result ([7.4](#phase-7-measure-and-know-when-to-stop)); and his video-length figure, which the transcript gives two different ways ([D3](#disagreement-3-video-length)).
-
-**Two mistakes I made and corrected:** I first read Austin Schneider's "repurpose" line as advocating plagiarism, which the full context does not support, and I initially called Sam Oh one of the least conflicted sources before noticing he works for Ahrefs and was ranking his employer's tool against its competitors. Both are documented in [Weaknesses](#weaknesses-of-this-playbook).
+**How this is organised.** Phases 0 to 7 are the procedure itself, built from what the ten practitioners said. The sections after that are where I take a position rather than report one: [where the experts contradict each other](#where-experts-disagree) and which side I take, [advice I decided not to include](#what-i-rejected-and-why), [ideas of my own](#my-original-ideas), [what this playbook gets wrong](#weaknesses-of-this-playbook), and [who is worth learning from](#who-i-would-recommend-and-for-what).
 
 ---
 
@@ -396,6 +375,8 @@ Without a number agreed in advance, you cannot tell these two apart, and you wil
 ## Weaknesses of this playbook
 
 Every playbook has weak spots. Most do not tell you where they are. Here are mine, grouped into three types, each with a line on what it should change about how much you trust the advice.
+
+Two things belong here before the list. **Three claims I refused to take at face value:** Ahrefs' 0.737 AI-visibility correlation, published by the company selling the tool that measures it ([6.4](#phase-6-publish-and-optimise)); Samu Kovács's month-by-month growth curve, which is a pitch to a prospective client rather than a recorded result ([7.4](#phase-7-measure-and-know-when-to-stop)); and his video-length figure, which the transcript gives two different ways ([Disagreement 3](#disagreement-3-video-length)). **And two mistakes I made and had to correct:** I first read Austin Schneider's "repurpose" advice as endorsing plagiarism, which the full passage does not support, and I originally described Sam Oh as one of the least conflicted sources before noticing he works for Ahrefs and was ranking his employer's tool against its competitors. Both corrections are in items 1 and 5 below.
 
 > **If you read only one thing here:** almost everyone I learned from sells YouTube services for a living, and I never saw a single company that followed this advice and still failed. Those two facts, together, mean this playbook probably makes YouTube look like a safer bet than it is.
 
