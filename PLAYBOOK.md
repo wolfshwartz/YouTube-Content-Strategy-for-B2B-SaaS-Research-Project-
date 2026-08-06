@@ -229,7 +229,7 @@ Samu Kovács's suggested title for Calendly, **"6 Tools Every Small Business Nee
 
 **Jake Trinder's own headline B2B result was a 2-minute video.** Describing how he got over 500,000 views on a B2B YouTube video, his stated method was to find a content gap and then "made a 2-minute video that answered the exact question. Delivered value fast, no long intro, no fluff, no wasted time" (source: Jake Trinder, LinkedIn, 19.07.2025 — https://www.linkedin.com/posts/jaketrinder_i-got-500k-views-on-a-b2b-youtube-video-share-7352357875035377665-ttO6/).
 
-**Where I land: Marlon Doll's framing, with Jake's exception preserved, and I discount Samu's numbers.** The instruction that generalises is Marlon's underlying principle rather than his duration: be the best video on the topic and match the length the question deserves. A question with a 2-minute answer padded to 12 minutes will lose retention, which is the metric that actually drives distribution, so length is downstream of question scope rather than a target in itself. I also do not trust the specific figure. The transcript has Samu giving the range two ways in one video, first as "90% of the best performing YouTube videos are between 8 and 50 minutes" and then as an 8 to 15 minute recommendation. In fairness to him, that may be the captions mishearing "fifteen" as "fifty" rather than an error of his (see [Weakness 6](#b-problems-with-the-raw-material)), but either way I would not build a production standard on a number I cannot pin down. **Practical rule [my inference]:** let the question set the length, then check retention. If average view duration drops sharply at a consistent timestamp, the video was too long for its question, not too short for the algorithm.
+**Where I land: Marlon Doll's framing, with Jake's exception preserved, and I discount Samu's numbers.** The instruction that generalises is Marlon's underlying principle rather than his duration: be the best video on the topic and match the length the question deserves. A question with a 2-minute answer padded to 12 minutes will lose retention, which is the metric that actually drives distribution, so length is downstream of question scope rather than a target in itself. I also do not trust the specific figure. The transcript has Samu giving the range two ways in one video, first as "90% of the best performing YouTube videos are between 8 and 50 minutes" and then as an 8 to 15 minute recommendation. In fairness to him, that may be the captions mishearing "fifteen" as "fifty" rather than an error of his (see [Weakness 7](#b-problems-with-the-raw-material)), but either way I would not build a production standard on a number I cannot pin down. **Practical rule [my inference]:** let the question set the length, then check retention. If average view duration drops sharply at a consistent timestamp, the video was too long for its question, not too short for the algorithm.
 
 ### Disagreement 4: Research tooling, proprietary depth vs. commodity tools
 
@@ -392,28 +392,63 @@ Every playbook has weak spots. Most do not tell you where they are. Here are min
 **4. Most experts gave me only one video each.** Six of the ten are represented by a single video, and four had no relevant LinkedIn posts at all. One video is one argument on one day, not someone's full position.
 → **What this means for you:** I may have flattened views that are more nuanced across their wider work. Greg Miroslaw's LinkedIn citation also points at his profile rather than a permanent post link, which is a genuine gap in the trail.
 
+**5. I leaned very heavily on one source.** Kyle Denhoff accounts for 28 of the roughly 90 citations here, about a third of the entire playbook, and I sided with him in three of the five disagreements. He is also the source I recommend most ([Who I would recommend](#who-i-would-recommend-and-for-what)).
+→ **What this means for you:** that is a single point of failure. If Kyle is wrong about something structural, roughly a third of this document inherits the mistake, and nothing in my method would have caught it, because I was treating him as the reliable one. Where a recommendation cites only Kyle, read it as one experienced practitioner's view rather than a consensus.
+
 ### B. Problems with the raw material
 
-**5. Some of it is old.** Sam Oh's core SEO video is from July 2022, roughly four years before this was written, and predates both AI search and the shift toward home-page and sidebar traffic. Kyle Denhoff's Haley Marketing appearance is from November 2024.
+**6. Some of it is old.** Sam Oh's core SEO video is from July 2022, roughly four years before this was written, and predates both AI search and the shift toward home-page and sidebar traffic. Kyle Denhoff's Haley Marketing appearance is from November 2024.
 → **What this means for you:** I flagged this where it changes a recommendation ([Disagreement 1](#disagreement-1-keyword-first-titles-vs-editorial-hooks)), but smaller tactical details are probably out of date in ways I cannot detect from a transcript alone.
 
-**6. The transcripts have mistakes in them, and the ones I can see are the ones that do not matter.** These are auto-generated captions. "Calendly" turns up as "Kalanley", "Canonly" and "Candy", and TK Kader's company name and URL are both garbled. Those are easy to catch, because they are obviously wrong and the surrounding sentence tells me what was meant.
+**7. The transcripts have mistakes in them, and the ones I can see are the ones that do not matter.** These are auto-generated captions. "Calendly" turns up as "Kalanley", "Canonly" and "Candy", and TK Kader's company name and URL are both garbled. Those are easy to catch, because they are obviously wrong and the surrounding sentence tells me what was meant.
 
 The mistakes that worry me are the ones that look completely fine on the page. I hit one in this research. Samu Kovács gives his ideal video length as "between 8 and 50 minutes" at one point, then as 8 to 15 minutes a moment later. Either he misspoke, or the captions heard "fifteen" as "fifty". Reading a transcript, I have no way to tell which, and that is a number I would otherwise have written straight into a production standard (see [Disagreement 3](#disagreement-3-video-length)).
 → **What this means for you:** treat the numbers in this playbook as its most fragile part. A garbled name I can repair from context. A misheard figure reads exactly like a correct one.
 
 ### C. What this playbook does not cover
 
-**7. It is written for smaller SaaS, not enterprise.** Nearly all the evidence comes from SMB and product-led companies with short, self-serve sales cycles. There is essentially nothing about enterprise SaaS: six-figure contracts, buying committees of six to ten people, and 9 to 18 month cycles, where YouTube's role is probably different in kind.
+**8. It is written for smaller SaaS, not enterprise.** Nearly all the evidence comes from SMB and product-led companies with short, self-serve sales cycles. There is essentially nothing about enterprise SaaS: six-figure contracts, buying committees of six to ten people, and 9 to 18 month cycles, where YouTube's role is probably different in kind.
 → **What this means for you:** if you sell to enterprise, treat this as a starting hypothesis, not a procedure. I am guessing there, and guessing is not what the rest of this document is doing.
 
-**8. There is no cost information anywhere.** Not one source says what any of this costs: filming, editing, thumbnails, a presenter, or internal hours.
+**9. There is no cost information anywhere.** Not one source says what any of this costs: filming, editing, thumbnails, a presenter, or internal hours.
 → **What this means for you:** "publish weekly for 90 days" is a budget decision, and this playbook cannot tell you whether that budget is small or large. That makes it hard to compare fairly against the paid advertising alternative that Kyle himself points to.
 
-**9. The AI search section will date fastest.** AEO is genuinely new, the headline statistic comes from one vendor selling the tool that measures it, and these systems change faster than any of these videos.
+**10. The AI search section will date fastest.** AEO is genuinely new, the headline statistic comes from one vendor selling the tool that measures it, and these systems change faster than any of these videos.
 → **What this means for you:** trust Phase 6 least, and re-check it before acting on it.
 
-**10. Topics nobody covered at all.** Legal or compliance review for regulated industries. Non-English markets. Accessibility beyond captions used as an SEO trick. What to do with a video that goes out of date after a product redesign. Hiring, beyond one rough sketch from Matt Gray. And notably: what happens to a founder-led channel when that founder leaves the company. Greg raises exactly that risk for hired presenters, but nobody applies it to founders.
+**11. Topics nobody covered at all.** Legal or compliance review for regulated industries. Non-English markets. Accessibility beyond captions used as an SEO trick. What to do with a video that goes out of date after a product redesign. Hiring, beyond one rough sketch from Matt Gray. And notably: what happens to a founder-led channel when that founder leaves the company. Greg raises exactly that risk for hired presenters, but nobody applies it to founders.
+
+---
+
+## Who I would recommend, and for what
+
+The mirror of the section below. If a junior B2B SaaS marketer had time to learn from only a few of these ten, here is where I would send them.
+
+| Expert | Read them for | Keep in mind |
+|---|---|---|
+| **Kyle Denhoff** | Channel structure, measurement, realistic timelines | HubSpot's resources are not yours, and I lean on him harder than anyone else here |
+| **Greg Miroslaw** | The most directly on-topic B2B SaaS material in the set | He sells the service he is describing |
+| **Ed Lawrence** | Turning views into leads | General YouTube, not B2B SaaS specific |
+
+### Kyle Denhoff: the backbone of this playbook
+
+**Why.** He is an in-house operator rather than an agency, running around 13 channels at HubSpot over five-plus years, and he is the only source here with nothing to sell you on this topic. He is also the most willing to say things that do not help him: that this takes three years, that you should buy ads instead if you need leads in 30 days, and that you should start with one channel rather than copy HubSpot's structure.
+
+**Keep in mind.** His resourcing assumptions come from a large company with a dedicated production team. And per [Weakness 5](#a-problems-with-the-people-i-learned-from), a third of this playbook rests on him, so my recommending him is not independent confirmation that he is right.
+
+### Greg Miroslaw: the most on-topic source
+
+**Why.** His video is the only one in the set built entirely around this exact question. He argues from named, checkable comparisons rather than assertions, Lemlist against Instantly being the clearest, and he is the only person who treats the on-camera decision as a staffing trade-off with honest costs on both sides instead of a matter of principle.
+
+**Keep in mind.** He sells YouTube agency services and pitches them inside the video, so his framing of YouTube's importance is not neutral.
+
+### Ed Lawrence: best on conversion
+
+**Why.** He carries half of [Phase 5](#phase-5-conversion-turning-views-into-pipeline), and two habits set him apart. He reasons from comparisons between his own videos, isolating the one variable that changed, which no other source does. And he publishes numbers that work against his own interest, notably that only about 3 in 10 videos beat their channel average ([7.5](#phase-7-measure-and-know-when-to-stop)). A source willing to tell you most of your videos will miss is a source worth trusting on the ones that land.
+
+**Keep in mind.** His material is general YouTube and business, not B2B SaaS, and his revenue figures are self-reported like everyone else's.
+
+**Two more worth your time:** Marlon Doll for the SaaS-specific funnel model and the GitHub case study, and Samu Kovács for the most concrete worked example in the set, his Calendly teardown, as long as you read his projections as a pitch rather than a forecast.
 
 ---
 
