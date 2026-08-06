@@ -6,7 +6,7 @@ An operating procedure for a B2B SaaS company starting or restarting a YouTube c
 
 **How to read the citations:** every recommendation carries its source and date. Where I am extending past what a source actually said, it is marked **[my inference]**.
 
-**How this is organised.** Phases 0 to 7 are the procedure itself, built from what the ten practitioners said. The sections after that are where I take a position rather than report one: [where the experts contradict each other](#where-experts-disagree) and which side I take, [advice I decided not to include](#what-i-rejected-and-why), [ideas of my own](#my-original-ideas), [what this playbook gets wrong](#weaknesses-of-this-playbook), and [who is worth learning from](#who-i-would-recommend-and-for-what).
+**How this is organised.** Phases 0 to 7 are the procedure itself, built from what the ten practitioners said. The sections after that are where I take a position rather than report one: [where the experts contradict each other](#where-experts-disagree) and which side I take, [advice I decided not to include](#what-i-rejected-and-why), [ideas of my own](#my-original-ideas), [what this playbook gets wrong](#weaknesses-of-this-playbook), [who is worth learning from](#who-i-would-recommend-and-for-what), and [who I would steer you away from](#who-i-would-not-recommend-following-and-why).
 
 ---
 
