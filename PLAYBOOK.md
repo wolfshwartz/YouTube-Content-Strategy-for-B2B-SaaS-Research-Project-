@@ -184,7 +184,30 @@ All four SaaS-specific sources converge on a three-layer funnel with different n
 
 **Kyle Denhoff recommends** layering an editorial hook over the keyword, and describes this as a deliberate move away from how HubSpot used to do it. His worked example: for the keyword "LinkedIn content strategy", the old approach was "Top 10 LinkedIn content strategies"; the new approach is to find the company doing it best and title it around the outcome, such as the LinkedIn content strategy that drove $10 million in revenue (source: Kyle Denhoff, YouTube, 23.06.2026).
 
-**Where I land: Kyle Denhoff, with Sam Oh's rule kept for one specific case.** The disagreement dissolves once you separate traffic sources, which neither source does explicitly. For bottom-of-funnel videos where essentially all traffic is high-intent search ("[product] tutorial", "[product A] vs [product B]"), the searcher has already decided what they want and a plain keyword title wins, so Sam Oh is right there. For top and middle of funnel, where videos compete on the home feed and in suggested videos against 20 other thumbnails, a bare keyword title has no reason to be clicked, and Kyle's editorial angle is the better bet. Two further considerations push me toward Kyle: Sam Oh's core SEO video is from **July 2022**, which predates both the AI-search shift and the recent weighting toward browse and suggested traffic, while Kyle's is from June 2026 and describes an explicit change away from the older approach. And Kyle is describing a decision made across 13 channels at a company that has been running YouTube for over five years, which is a larger evidence base than a single-channel case. **[my inference: the traffic-source split is mine; neither source frames it this way.]**
+**Where I land: Kyle Denhoff, except in one specific case where Sam Oh is right.**
+
+These two are not really giving opposite advice. They are describing two different situations, and neither of them says so. One question settles it:
+
+> **How did this viewer find the video? Did they go looking for it, or did it appear in front of them?**
+
+Those two viewers need completely different titles.
+
+**Situation 1: they searched for it.** Someone typed a query into YouTube or Google and your video came back. This person already knows what they want. Your title's only job is to obviously match what they typed. Cleverness actively hurts here, because a clever title looks less like the answer they just asked for.
+
+For a scheduling product, someone searching `calendly tutorial` should find a title like **"How to Use Calendly in 2026: Step-by-Step Tutorial"**. Plain and literal, on purpose. **Sam Oh is right for this case,** which in this playbook means your bottom-of-funnel videos: product tutorials, demos, and "[product A] vs [product B]" comparisons ([Phase 2](#phase-2-content-architecture-the-three-layers)).
+
+**Situation 2: it appeared in front of them.** They were scrolling the YouTube home page, or it showed up in the sidebar beside a video they were already watching. This person was not looking for you and did not ask for anything. Your title is competing against roughly 20 other thumbnails for a click they had no intention of giving, so a plain keyword title gives them no reason to pick yours.
+
+Samu Kovács's suggested title for Calendly, **"6 Tools Every Small Business Needs in 2026"**, is this kind of title. Nobody searches that phrase. It has to earn the click by itself. **Kyle Denhoff is right here,** which covers your top and middle-of-funnel videos.
+
+**The resulting rule:** plain keyword title when they searched for it, editorial hook when the title has to earn the click.
+
+**Two further reasons I lean toward Kyle overall, where the two do genuinely overlap:**
+
+1. **Age of the advice.** Sam Oh's core SEO video is from **July 2022**, roughly four years before I am writing this. It predates both the shift toward AI answer engines and the growing share of views coming from the home page and sidebar rather than search. Kyle's is from June 2026, and he explicitly describes HubSpot *moving away* from the older keyword-first approach.
+2. **Size of the evidence base.** Kyle is describing a decision applied across roughly 13 channels at a company running YouTube for over five years, rather than one channel's experience.
+
+**[my inference: the split between "searched for it" and "appeared in front of them" is mine. Neither source frames the disagreement this way, and neither acknowledges the other's case.]**
 
 ### Disagreement 2: Where to start in the funnel
 
