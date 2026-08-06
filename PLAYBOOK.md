@@ -76,7 +76,9 @@ An operating procedure for a B2B SaaS company starting or restarting a YouTube c
 
 **1.5 — Use your sales calls as a research input.** Content research is not only keyword research: review sales calls and talk to customers (source: Kyle Denhoff, YouTube, 23.06.2026). I extend this substantially in [My original ideas](#my-original-ideas).
 
-**1.6 — Treat keyword tool volumes as estimates, not facts.** Sam Oh pulled his own ranking data for 14 keywords his channel ranked #1 for and back-calculated implied click-through rates: TubeBuddy's volumes implied a 0.2% average CTR to a top-ranking video and vidIQ's implied 0.63%, against a realistic 15 to 18% (source: Sam Oh, YouTube, 27.07.2022). His conclusion, which I adopt: no keyword tool is accurate; use volumes for relative comparison only.
+**1.6 — Treat keyword tool volumes as estimates, not facts.** Sam Oh pulled his own ranking data for 14 keywords his channel ranked #1 for and back-calculated implied click-through rates: TubeBuddy's volumes implied a 0.2% average CTR to a top-ranking video and vidIQ's implied 0.63%, against a realistic 15 to 18% (source: Sam Oh, YouTube, 27.07.2022 — https://www.youtube.com/watch?v=Nh0mDbfEdVA). His stated conclusion, which I adopt: no keyword tool is accurate, so use volumes for relative comparison only.
+
+> **Skepticism note.** Sam Oh works for Ahrefs, and the two tools that come out badly here are Ahrefs' competitors. Ahrefs' own numbers in that same test are not clean either: they imply a 37.09% average CTR with one keyword at 346%, which is impossible. He does say plainly that no tool is perfect, and the underlying method (compare implied CTR against a realistic range) is sound and reproducible with your own data. But read this as a vendor comparison run by the vendor, and take the general lesson rather than the ranking.
 
 ---
 
@@ -86,7 +88,7 @@ All four SaaS-specific sources converge on a three-layer funnel with different n
 
 | Layer | Purpose | What it looks like | Named by |
 |---|---|---|---|
-| **Top of funnel** | Reach your ICP before they are searching for you | Broad educational videos that never mention your product in the title | Samu Kovács (40%), Greg Miroslaw, Marlon Doll ("authority-building") |
+| **Top of funnel** | Reach your ICP before they are searching for you | Broad educational videos that never mention your product in the title | Samu Kovács (40%), Greg Miroslaw, Marlon Doll ("authority-building"), Kyle Denhoff ("educational layer", plus thought leadership) |
 | **Middle of funnel** | Build trust, connect problem to product | Category comparisons, case studies, client interviews, strategy breakdowns, teardowns | Samu Kovács (30%), Greg Miroslaw ("nurturing"), Marlon Doll ("bridge") |
 | **Bottom of funnel** | Convert people already evaluating you | Product tutorials, demos, feature comparisons, competitor comparisons | Samu Kovács (30%), Greg Miroslaw, Marlon Doll ("conversion"), Kyle Denhoff |
 
@@ -172,7 +174,11 @@ All four SaaS-specific sources converge on a three-layer funnel with different n
 
 > **Note on Samu's projection:** these are the forecast numbers in a public teardown by an agency owner pitching a prospective client, not audited results. Treat the shape of the curve as useful and the specific figures as optimistic.
 
-**7.5 — Define kill criteria before you start.** No source does this. See [My original ideas](#my-original-ideas).
+**7.5 — Expect most of your videos to underperform, and judge the channel on the winners.** Ed Lawrence analysed 40 established channels and found only about 3 in 10 videos beat their own channel's average. His conclusion is that this is simply how YouTube works even when you are doing everything right, so the useful response to a flop is not to avoid failure but to examine the few that worked and ask why: what was the title, what was the thumbnail, was the problem framed differently (source: Ed Lawrence, LinkedIn, 30.06.2026 — https://www.linkedin.com/feed/update/urn:li:activity:7477390494143205376/).
+
+This is the most useful expectation-setting number in the whole research set, and it is worth knowing before video one. A 7-in-10 miss rate is normal, not evidence that the strategy is broken. It also means judging a channel on its median video is the wrong test: the median is supposed to be unremarkable.
+
+**7.6 — Define kill criteria before you start.** No source does this. See [My original ideas](#my-original-ideas).
 
 ---
 
@@ -372,8 +378,10 @@ Every playbook has weak spots. Most do not tell you where they are. Here are min
 
 ### A. Problems with the people I learned from
 
-**1. Most of them are selling something.** Six of the ten make money from you believing this works. Samu Kovács (KS Media), Greg Miroslaw, Marlon Doll (Vireo Video), and Jake Trinder all sell YouTube agency or coaching services, and pitch them inside the very videos I cited. TK Kader pitches a coaching programme. Austin Schneider's video is essentially a long advert for Instantly, on whose channel it appears.
-→ **What this means for you:** nobody in this group has any reason to tell you YouTube is a poor fit for your company. Kyle Denhoff and Sam Oh are the least conflicted, and it is not an accident that I ended up siding with Kyle in three of the five disagreements.
+**1. Most of them are selling something.** Seven of the ten make money from you believing this works. Samu Kovács (KS Media), Greg Miroslaw, Marlon Doll (Vireo Video), and Jake Trinder all sell YouTube agency or coaching services, and pitch them inside the very videos I cited. TK Kader pitches a coaching programme. Austin Schneider's video is essentially a long advert for Instantly, on whose channel it appears. And Sam Oh works for Ahrefs: his videos are Ahrefs course material, and he recommends Ahrefs tools in them, including one head-to-head test where his employer's tool beats its competitors ([1.6](#phase-1-research-find-the-topics-before-you-script)).
+→ **What this means for you:** nobody in this group has a reason to tell you YouTube is a poor fit for your company. **Kyle Denhoff is the only source here with no product to sell you on this topic,** which is worth knowing given that I ended up siding with him in three of the five disagreements. I would rather you noticed that pattern than took it on trust.
+
+*Honest note on how I found this:* I originally wrote that Sam Oh was among the least conflicted sources, and only caught the Ahrefs problem when auditing the finished playbook. The bias is easiest to miss in the sources you have relied on most.
 
 **2. I only ever saw the winners.** Every example here is a channel that worked: Calendly's proposed fix, GitHub, Instantly, Glenoko, Ahrefs. Not one source discusses a company that did all of this properly and still got nowhere.
 → **What this means for you:** I can tell you what successful channels did. I cannot tell you whether unsuccessful channels did exactly the same things. Those are different questions, and only the second one tells you your odds.
