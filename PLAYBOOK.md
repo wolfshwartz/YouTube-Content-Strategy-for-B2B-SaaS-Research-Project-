@@ -8,13 +8,36 @@ An operating procedure for a B2B SaaS company starting or restarting a YouTube c
 
 ---
 
+## The judgment calls, in one place
+
+Phases 0 to 7 are largely a synthesis of what ten practitioners said. This table is the part that is mine: every point where I chose between sources, refused advice, or added something none of them offered. Start here if you want to know what I actually think.
+
+| The call | What I decided |
+|---|---|
+| Keyword titles or editorial hooks? | Neither, exactly. It depends on how the viewer arrived, a split neither source makes → [D1](#disagreement-1-keyword-first-titles-vs-editorial-hooks) |
+| Where to start in the funnel | At the bottom, against two of the three SaaS-specific sources → [D2](#disagreement-2-where-to-start-in-the-funnel) |
+| How long should videos be? | Let the question decide, and I distrust the one hard number given → [D3](#disagreement-3-video-length) |
+| Expensive research or cheap tools? | Take the reasoning, reject the scale, and the "tools give no edge" claim is wrong → [D4](#disagreement-4-research-tooling-proprietary-depth-vs-commodity-tools) |
+| Should the founder be on camera? | Wrong question. Ask who will still be filming in 12 months → [D5](#disagreement-5-who-should-be-on-camera) |
+| Repurpose one video into 26 | **Rejected** as a starting point. It scales unvalidated content → [R1](#1-matt-grays-content-waterfall-as-a-starting-point) |
+| Research your own niche | **Rejected.** Your competitors run the same search, so it caps you at parity → [R2](#2-austin-schneiders-in-niche-research-method) |
+| Pay creators for reach early | **Rejected** as a foundation. You rent an audience instead of building one → [R3](#3-paid-creator-partnerships-as-an-early-stage-growth-lever) |
+| What decides your next video | **Mine:** lost deals, not search volume → [O1](#original-idea-1-let-your-lost-deals-pick-your-next-video) |
+| How you know it is not working | **Mine:** write the failure numbers down before video one → [O2](#original-idea-2-decide-what-failure-looks-like-before-you-publish-video-one) |
+
+**Three claims I did not take at face value:** Ahrefs' 0.737 AI-visibility correlation, sold by the company that measures it ([6.4](#phase-6-publish-and-optimise)); Samu Kovács's month-by-month growth curve, which is a pitch to a prospect rather than a result ([7.4](#phase-7-measure-and-know-when-to-stop)); and his video-length figure, which the transcript gives two different ways ([D3](#disagreement-3-video-length)).
+
+**Two mistakes I made and corrected:** I first read Austin Schneider's "repurpose" line as advocating plagiarism, which the full context does not support, and I initially called Sam Oh one of the least conflicted sources before noticing he works for Ahrefs and was ranking his employer's tool against its competitors. Both are documented in [Weaknesses](#weaknesses-of-this-playbook).
+
+---
+
 > # ⚠️ Read this before anything else
 >
 > ## This is a long game, and it has to be built in sequence
 >
 > **Nothing in this playbook works if you try to do all of it at once.** The phases below are written in order on purpose. Each one assumes the previous one is already running.
 >
-> **On the time horizon.** Kyle Denhoff, who runs this for a living at HubSpot, is unambiguous: none of these strategies produce results in 30 days, and you are building a brand for the next three years. He compares it to paying into a retirement account rather than running a campaign, and says plainly that if you need leads inside 30 days, the answer is paid media, not content (source: Kyle Denhoff, "Practical Ideas to Improve Your Content Strategy", Haley Marketing, YouTube, 11.11.2024 — https://www.youtube.com/watch?v=TN7NQL8t-GI). The commitment thresholds the sources give before you are even entitled to judge results: 90 days at one video per week (source: Greg Miroslaw, YouTube, 18.05.2026 — https://www.youtube.com/watch?v=gZZ5D1bceMA), or three months at one video every two weeks (source: Kyle Denhoff, YouTube, 23.06.2026 — https://youtu.be/6TBAHC7ksbU). Marlon Doll's version: success comes from a library that compounds week after week, not from one video (source: Marlon Doll, YouTube, 10.12.2025 — https://www.youtube.com/watch?v=OBK5DZJZnjs).
+> **On the time horizon.** Kyle Denhoff, who runs this for a living at HubSpot, is unambiguous: none of these strategies produce results in 30 days, and you are building a brand for the next three years. He compares it to paying into a retirement account rather than running a campaign, and says plainly that if you need leads inside 30 days, the answer is paid media, not content (source: Kyle Denhoff, "Practical Ideas to Improve Your Content Strategy", Haley Marketing, YouTube, 11.11.2024 — https://www.youtube.com/watch?v=TN7NQL8t-GI). Nobody in the set thinks you may judge results before 90 days of consistent publishing; the exact cadences are in [7.3](#phase-7-measure-and-know-when-to-stop). Expect most individual videos to miss even when the channel is working ([7.5](#phase-7-measure-and-know-when-to-stop)).
 >
 > **On sequence.** Kyle Denhoff's own onboarding advice is to reorient around a *single* strategy and a *single* series, then give it time to mature. He is blunt that formats are hard, and recommends spending a month simply getting one format right before worrying about anything else (source: Kyle Denhoff, YouTube, 23.06.2026). One platform, one channel, one format, one cadence. Everything else is a later problem.
 >
