@@ -8,6 +8,32 @@ An operating procedure for a B2B SaaS company starting or restarting a YouTube c
 
 ---
 
+> # ⚠️ Read this before anything else
+>
+> ## This is a long game, and it has to be built in sequence
+>
+> **Nothing in this playbook works if you try to do all of it at once.** The phases below are written in order on purpose. Each one assumes the previous one is already running.
+>
+> **On the time horizon.** Kyle Denhoff, who runs this for a living at HubSpot, is unambiguous: none of these strategies produce results in 30 days, and you are building a brand for the next three years. He compares it to paying into a retirement account rather than running a campaign, and says plainly that if you need leads inside 30 days, the answer is paid media, not content (source: Kyle Denhoff, "Practical Ideas to Improve Your Content Strategy", Haley Marketing, YouTube, 11.11.2024 — https://www.youtube.com/watch?v=TN7NQL8t-GI). The commitment thresholds the sources give before you are even entitled to judge results: 90 days at one video per week (source: Greg Miroslaw, YouTube, 18.05.2026 — https://www.youtube.com/watch?v=gZZ5D1bceMA), or three months at one video every two weeks (source: Kyle Denhoff, YouTube, 23.06.2026 — https://youtu.be/6TBAHC7ksbU). Marlon Doll's version: success comes from a library that compounds week after week, not from one video (source: Marlon Doll, YouTube, 10.12.2025 — https://www.youtube.com/watch?v=OBK5DZJZnjs).
+>
+> **On sequence.** Kyle Denhoff's own onboarding advice is to reorient around a *single* strategy and a *single* series, then give it time to mature. He is blunt that formats are hard, and recommends spending a month simply getting one format right before worrying about anything else (source: Kyle Denhoff, YouTube, 23.06.2026). One platform, one channel, one format, one cadence. Everything else is a later problem.
+>
+> **A workable order for the first 90 days [my inference, sequencing the phases below]:**
+>
+> | When | Do this | Do **not** do this yet |
+> |---|---|---|
+> | Weeks 1 to 2 | [Phase 0](#phase-0-decide-what-the-channel-is-for-before-you-film-anything) decisions and channel audit. No filming at all. | Buying equipment, designing thumbnails |
+> | Weeks 3 to 4 | [Phase 1](#phase-1-research-find-the-topics-before-you-script) research, build a topic backlog | Filming before the backlog exists |
+> | Month 2 | Ship 4 to 6 bottom-of-funnel videos in **one** format (see [Disagreement 2](#disagreement-2-where-to-start-in-the-funnel)) | Adding a second format or channel |
+> | Month 3 | Hold cadence. Refine the one format. | Repurposing waterfalls, paid creator deals |
+> | Month 4+ | Only now widen toward the 40/30/30 mix ([2.1](#phase-2-content-architecture-the-three-layers)) | Judging the channel dead before your threshold |
+>
+> **The failure this prevents** is the most common one in the entire research set: a company launches a channel, a second channel, a repurposing pipeline, and three content formats simultaneously, exhausts itself by video eight, and concludes YouTube does not work for B2B. It was never given the chance to.
+>
+> **One caution against the opposite error.** "Be patient" is not a licence to spend indefinitely. Patience is only defensible when paired with the exit conditions in [Original idea 2](#original-idea-2-define-kill-criteria-before-publishing-video-one): decide *before* you publish video one what result would tell you the format is wrong, so that "give it time" never becomes unfalsifiable.
+
+---
+
 ## Phase 0. Decide what the channel is for, before you film anything
 
 **0.1 — Concentrate your output instead of spreading it.** There are two separate decisions hiding in this one, and they are easier to get right when kept apart.
