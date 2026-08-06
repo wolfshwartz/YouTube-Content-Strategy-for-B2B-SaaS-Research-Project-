@@ -287,7 +287,18 @@ The better question is:
 
 **The idea:** research people on YouTube talking about what you offer, then "pretty much try to repurpose those videos and make them my own" (source: Austin Schneider, YouTube, 18.04.2025).
 
-**Why I rejected it:** as stated, this is advice to reproduce competitors' videos with cosmetic changes, and I am not willing to put it in an SOP. It is also strategically self-defeating on the sources' own logic: Kyle Denhoff's entire argument for how content wins now is expertise and original point of view, given that anyone can generate a derivative article and it will not rank (source: Kyle Denhoff, YouTube, 11.11.2024). **The defensible version, which I kept in [1.3](#phase-1-research-find-the-topics-before-you-script):** borrow *formats and structures* that are proven, and fill them with your own expertise and data. That is Jake Trinder's method, and the distinction between copying a format and copying a video is the whole difference.
+**Why I rejected it: this is copying, and I will not put copying in an SOP.**
+
+Set the ethics aside for a moment, because it also simply does not work. If your video is a reworded version of one that already exists, you are asking a viewer to pick your copy over the original. The original got there first. It already has the ranking, the watch time, and the comments. You are competing against it with a weaker version of itself, and you will lose.
+
+It also contradicts the best advice in this entire research set. Kyle Denhoff's whole argument is that content now wins on real expertise and a real point of view, because anyone can churn out a copy of anything and copies do not rank (source: Kyle Denhoff, YouTube, 11.11.2024 — https://www.youtube.com/watch?v=TN7NQL8t-GI). Austin's advice tells you to compete in the one place where you have nothing to offer that the original does not already have.
+
+**There is a genuinely good idea buried in here, and I kept that version in [1.3](#phase-1-research-find-the-topics-before-you-script).** Everything depends on *what* you copy:
+
+- ❌ **Copying the video.** You watch a competitor's "5 cold email mistakes" video, then publish your own "5 cold email mistakes" video with the same five mistakes. You have added nothing.
+- ✅ **Copying the format.** You notice that "watch me build X in 10 hours" is working in a completely unrelated category, and you use that shape for something only your company could make: your product, your challenge, your real result. This is what Jake Trinder did for Instantly, and that video reportedly reached around 440,000 views (source: Jake Trinder, YouTube, 28.06.2026 — https://www.youtube.com/watch?v=LOgDwuUsmzw).
+
+**The rule: borrow the container, never borrow what goes inside it.** The format is just a proven way to hold an idea. The idea has to be yours, because that is the only part a competitor cannot copy back.
 
 ### 3. Paid creator partnerships as an early-stage growth lever
 
