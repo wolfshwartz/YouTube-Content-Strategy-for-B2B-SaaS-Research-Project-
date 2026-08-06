@@ -366,25 +366,44 @@ Without a number agreed in advance, you cannot tell these two apart, and you wil
 
 ## Weaknesses of this playbook
 
-**The source pool has a structural conflict of interest.** Of the ten experts, at least six are selling something directly connected to the advice: Samu Kovács (KS Media), Greg Miroslaw, Marlon Doll (Vireo Video), and Jake Trinder all sell YouTube agency or coaching services and pitch them within the cited videos. TK Kader pitches a go-to-market coaching programme. Austin Schneider's video is effectively an extended advertisement for Instantly, on whose channel it is published, and whose product is cold email rather than YouTube. This means the sample systematically over-represents people whose income depends on B2B companies believing YouTube works. Kyle Denhoff and Sam Oh are the least conflicted, and it is not a coincidence that I sided with Kyle in three of five disagreements.
+Every playbook has weak spots. Most do not tell you where they are. Here are mine, grouped into three types, each with a line on what it should change about how much you trust the advice.
 
-**Survivorship bias throughout, and no failure data at all.** Every case study cited is a channel that worked: Calendly's projected turnaround, GitHub, Instantly, Glenoko, Ahrefs. Nobody in the set discusses a channel that followed this advice and failed anyway, what the base rate of success is, or how long the median channel takes to produce nothing. The advice may well describe what winners did without describing what distinguishes them from the larger set of companies that did the same things and got no traction.
+> **If you read only one thing here:** almost everyone I learned from sells YouTube services for a living, and I never saw a single company that followed this advice and still failed. Those two facts, together, mean this playbook probably makes YouTube look like a safer bet than it is.
 
-**Almost all self-reported numbers are unverifiable.** "$1 million collected in 6 months", "over $2 million a year", "$320M/yr", "$300,000 a month" are all claims made by the person benefiting from the claim, in a video selling their service. I have cited them as claims and not treated any of them as evidence, but a reader should know the playbook contains no independently verified financial outcome.
+### A. Problems with the people I learned from
 
-**Thin coverage per expert.** Six of the ten experts contribute a single video, and four contribute no LinkedIn content at all because none relevant existed. A single video is one argument on one day, not a body of work, and I may be mischaracterising positions that are more nuanced across their full output. Greg Miroslaw's LinkedIn entry also links to his profile rather than a permanent post URL, which is a real gap in the citation trail.
+**1. Most of them are selling something.** Six of the ten make money from you believing this works. Samu Kovács (KS Media), Greg Miroslaw, Marlon Doll (Vireo Video), and Jake Trinder all sell YouTube agency or coaching services, and pitch them inside the very videos I cited. TK Kader pitches a coaching programme. Austin Schneider's video is essentially a long advert for Instantly, on whose channel it appears.
+→ **What this means for you:** nobody in this group has any reason to tell you YouTube is a poor fit for your company. Kyle Denhoff and Sam Oh are the least conflicted, and it is not an accident that I ended up siding with Kyle in three of the five disagreements.
 
-**Recency is uneven, and one core source is nearly four years old.** Sam Oh's foundational SEO video is from July 2022 and predates both the AI-search shift and the current weighting of browse and suggested traffic. Kyle Denhoff's Haley Marketing appearance is from November 2024. I have flagged this where it affects a recommendation ([Disagreement 1](#disagreement-1-keyword-first-titles-vs-editorial-hooks)), but some tactical detail is likely stale in ways I cannot detect from inside the transcripts.
+**2. I only ever saw the winners.** Every example here is a channel that worked: Calendly's proposed fix, GitHub, Instantly, Glenoko, Ahrefs. Not one source discusses a company that did all of this properly and still got nowhere.
+→ **What this means for you:** I can tell you what successful channels did. I cannot tell you whether unsuccessful channels did exactly the same things. Those are different questions, and only the second one tells you your odds.
 
-**The transcripts are auto-generated and contain errors.** "Calendly" appears variously as "Kalanley", "Canonly", and "Candy"; TK Kader's company "Tout App" appears as "Tout app" and his URL is mangled. I have read around these, but auto-captions can invert meaning, and I have not verified every quoted phrase against the original audio.
+**3. The impressive numbers cannot be checked.** "$1 million in 6 months", "over $2 million a year", "$320M/yr", "$300,000 a month". Every one of these is a figure quoted by the person who benefits from you believing it, in a video selling their service.
+→ **What this means for you:** I have written these as claims rather than facts throughout. There is no independently verified financial result anywhere in this playbook.
 
-**The scope is narrower than the topic sounds.** The evidence base is overwhelmingly SMB and product-led SaaS with short, self-serve or sales-assisted cycles. There is essentially nothing here about enterprise SaaS with six-figure contracts, procurement committees, and 9 to 18 month cycles, where the buying committee is 6 to 10 people and YouTube's role is likely completely different. Applying this playbook to enterprise ABM is an untested extrapolation.
+**4. Most experts gave me only one video each.** Six of the ten are represented by a single video, and four had no relevant LinkedIn posts at all. One video is one argument on one day, not someone's full position.
+→ **What this means for you:** I may have flattened views that are more nuanced across their wider work. Greg Miroslaw's LinkedIn citation also points at his profile rather than a permanent post link, which is a genuine gap in the trail.
 
-**No cost data anywhere.** Nobody states what any of this costs: production, editing, thumbnails, hosting a presenter, or the internal hours. A recommendation to publish weekly for 90 days is a budget decision, and this playbook cannot tell you whether that budget is 5,000 or 100,000 in your currency of choice. That makes it hard to compare against the paid alternatives Kyle himself points to.
+### B. Problems with the raw material
 
-**The AEO section rests on the newest and thinnest evidence.** AI answer-engine optimisation is a genuinely new area, one vendor supplies the headline statistic, and the underlying systems change faster than any of these videos. It is the section most likely to be wrong within a year.
+**5. Some of it is old.** Sam Oh's core SEO video is from July 2022, roughly four years before this was written, and predates both AI search and the shift toward home-page and sidebar traffic. Kyle Denhoff's Haley Marketing appearance is from November 2024.
+→ **What this means for you:** I flagged this where it changes a recommendation ([Disagreement 1](#disagreement-1-keyword-first-titles-vs-editorial-hooks)), but smaller tactical details are probably out of date in ways I cannot detect from a transcript alone.
 
-**What is missing entirely.** Nothing in the sources covers legal or compliance review for regulated SaaS categories, localisation for non-English markets, accessibility beyond captions as an SEO tactic, how to handle a video that ages badly after a product redesign, or team hiring beyond Matt Gray's role sketch. There is also no guidance on what to do when the founder who is the face of the channel leaves the company, which Greg raises as a risk for hired presenters but nobody addresses for founders.
+**6. The transcripts contain errors.** These are auto-generated captions. "Calendly" shows up as "Kalanley", "Canonly", and "Candy". TK Kader's company name and URL are both mangled.
+→ **What this means for you:** I read around the obvious errors, but auto-captions can occasionally flip a meaning, and I did not check every quoted phrase against the original audio.
+
+### C. What this playbook does not cover
+
+**7. It is written for smaller SaaS, not enterprise.** Nearly all the evidence comes from SMB and product-led companies with short, self-serve sales cycles. There is essentially nothing about enterprise SaaS: six-figure contracts, buying committees of six to ten people, and 9 to 18 month cycles, where YouTube's role is probably different in kind.
+→ **What this means for you:** if you sell to enterprise, treat this as a starting hypothesis, not a procedure. I am guessing there, and guessing is not what the rest of this document is doing.
+
+**8. There is no cost information anywhere.** Not one source says what any of this costs: filming, editing, thumbnails, a presenter, or internal hours.
+→ **What this means for you:** "publish weekly for 90 days" is a budget decision, and this playbook cannot tell you whether that budget is small or large. That makes it hard to compare fairly against the paid advertising alternative that Kyle himself points to.
+
+**9. The AI search section will date fastest.** AEO is genuinely new, the headline statistic comes from one vendor selling the tool that measures it, and these systems change faster than any of these videos.
+→ **What this means for you:** trust Phase 6 least, and re-check it before acting on it.
+
+**10. Topics nobody covered at all.** Legal or compliance review for regulated industries. Non-English markets. Accessibility beyond captions used as an SEO trick. What to do with a video that goes out of date after a product redesign. Hiring, beyond one rough sketch from Matt Gray. And notably: what happens to a founder-led channel when that founder leaves the company. Greg raises exactly that risk for hired presenters, but nobody applies it to founders.
 
 ---
 
