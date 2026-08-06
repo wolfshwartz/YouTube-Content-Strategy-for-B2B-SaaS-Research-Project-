@@ -231,7 +231,22 @@ Samu Kovács's suggested title for Calendly, **"6 Tools Every Small Business Nee
 
 **Marlon Doll, Austin Schneider, and Sam Oh all use commodity tools.** Marlon: "We like to use Vid IQ and one of 10 Chrome extensions to spot outliers" (source: Marlon Doll, YouTube, 10.12.2025). Austin recommends vidIQ for title and description optimisation (source: Austin Schneider, "12 B2B Marketing Strategies For 2025", YouTube, 18.04.2025 — https://www.youtube.com/watch?v=KtX1srhbC2k). Sam Oh uses Ahrefs Keywords Explorer, having tested and published the accuracy problems with the others (source: Sam Oh, YouTube, 27.07.2022).
 
-**Where I land: mostly against Jake, while keeping his method.** Jake undercuts his own argument inside the same video: while demonstrating the manual process he reads outlier multipliers off the 1of10 Chrome extension and mentions vidIQ for subscriber counts, the exact tools he had dismissed a few minutes earlier. His stated cost structure, $200,000 a month, is also an argument for hiring his agency rather than a method a five-person marketing team can adopt, and he says so directly in the video. What survives is the *reasoning*: look outside your own niche for proven formats, and verify outliers before copying them ([1.4](#phase-1-research-find-the-topics-before-you-script)). That reasoning costs nothing and is genuinely differentiated. The claim that using widely available tools means zero advantage is also just weak: an advantage comes from acting on what a tool shows, and most B2B SaaS competitors are not acting at all, as Greg's Lemlist example and Samu's Calendly example both illustrate.
+**Where I land: take Jake's method, ignore Jake's scale, and keep using the cheap tools.**
+
+The useful move here is to separate two things Jake presents as one package: *how he thinks about research*, which is excellent and free, and *how much he spends doing it*, which is irrelevant to you.
+
+**His scale is not a method you can adopt.** Hundreds of research hours a week, a dedicated in-house research team, and over $200,000 a month is a description of an agency you could hire, not a process a marketing team of one to five people can run. He is straightforward about this in the video, where the research walkthrough leads into an offer to run your channel for you.
+
+**His argument against common tools does not hold up.** He says that because vidIQ, 1of10, and ViewStats are cheap and widely available, using them gives you no competitive advantage. The flaw: a tool has never been the advantage. *Acting on what it shows you* is the advantage. Everyone in your category can see the same outlier data, and almost nobody does anything with it. This playbook contains two named illustrations of exactly that: Lemlist posting unstructured content while Instantly executes, and Calendly leaving obvious demand unserved. Neither company is losing because they lack a Chrome extension.
+
+**He also does not follow his own rule.** Minutes after dismissing those tools, he reads outlier multipliers off the 1of10 extension and checks subscriber counts with vidIQ while demonstrating the process on camera. That is not disqualifying, but it tells you the tools are fine and the "no advantage" line is positioning.
+
+**What is genuinely worth taking, and costs nothing:**
+
+1. **Look outside your own niche for proven formats.** A video structure that works in an unrelated category, but has never been done in yours, is an opportunity your direct competitors cannot see because they only watch each other.
+2. **Verify an outlier before you copy it.** Check the comment count against the view count and look at the view graph. A big number with very little engagement usually means traffic was pushed to that video, not that the audience genuinely rewarded it ([1.4](#phase-1-research-find-the-topics-before-you-script)).
+
+That second habit is the sharpest thing in the entire research set, and every other source in this playbook treats high view counts as proof without ever testing for it.
 
 ### Disagreement 5: Who should be on camera
 
@@ -239,7 +254,24 @@ Samu Kovács's suggested title for Calendly, **"6 Tools Every Small Business Nee
 
 **Greg Miroslaw lays out three staffing models with explicit trade-offs and does not treat founder-led as automatically correct.** Founder or team member gives the highest trust, authenticity, and lowest cost, but demands founder time on camera and is hard to scale or transition. A hired presenter frees founder time, allows higher volume without burnout, and gives professional delivery from day one, at the cost of authenticity, ongoing expense, and rebuilding audience trust if that person leaves. Creator partnerships give instant access to warm audiences with no long-term commitment, but you do not own the audience, have limited brand control, and it does not compound. He names Clay and Instantly as channels using a dedicated face rather than the founder (source: Greg Miroslaw, YouTube, 18.05.2026).
 
-**Where I land: Greg Miroslaw, and I think TK's position is the weakest thing in an otherwise strong framework.** Greg is the only source treating this as a resourcing decision with trade-offs rather than a matter of principle, and he supplies named counter-examples of successful channels that do not use the founder. Kyle Denhoff also quietly undercuts the founder-required assumption from a different direction: "you don't need the charismatic loud host", you need someone educational with lived experience, and an interview format is an easier entry point for camera-resistant experts (source: Kyle Denhoff, YouTube, 23.06.2026). The constraint that actually matters is consistency of talent, not the talent's job title. **My recommendation:** default to founder-led if and only if the founder will genuinely commit for 12 months, because a founder who quits after five videos is worse than a hired presenter who lasts three years. Kyle's interview format is the best hedge, since it gets the founder's expertise on camera while offloading the performance burden to a host.
+**Where I land: Greg Miroslaw. You are asking the wrong question if you ask "should the founder be on camera?"**
+
+The better question is:
+
+> **Who will still be recording these videos in 12 months?**
+
+**Why "founder-led" is not the principle it gets treated as.** TK Kader presents founder-led content as close to a moral requirement, and this is the weakest part of an otherwise strong framework. Greg supplies the disproof by name: Clay and Instantly both run successful channels using a dedicated presenter rather than the founder. So a founder on camera is clearly not required for a B2B SaaS channel to work. Greg is also the only source who treats this as a staffing decision with real trade-offs on both sides, instead of a matter of authenticity.
+
+**What actually matters is that the same person keeps showing up.** YouTube rewards consistency of talent, format, and schedule ([2.4](#phase-2-content-architecture-the-three-layers)). Consistency is a property of a *person continuing to appear*, not of that person's job title. **A founder who quits after five videos is worse for the channel than a hired presenter who lasts three years.** Kyle Denhoff removes the usual objection from the other direction: you do not need a charismatic, loud host, just someone educational with real lived experience (source: Kyle Denhoff, YouTube, 23.06.2026 — https://youtu.be/6TBAHC7ksbU).
+
+**So decide it this way:**
+
+| Your situation | Do this |
+|---|---|
+| Founder genuinely commits to 12 months of recording | **Founder-led.** Highest trust, lowest cost, and it compounds. |
+| Founder has the expertise but dislikes being on camera | **Interview format.** A host asks the questions and carries the performance, so the founder only has to talk about what they already know. This is Kyle Denhoff's suggestion and the best hedge available. |
+| Founder cannot commit the time, or is planning to step back | **Hire a presenter, or use a senior team member who will stay.** Accept lower authenticity in exchange for a channel that survives. |
+| You are tempted to start founder-led "and see how it goes" | **Do not.** Switching faces later means rebuilding audience trust, which Greg names as the main risk of the presenter model. Choose based on the 12-month answer, not on enthusiasm in week one. |
 
 ---
 
