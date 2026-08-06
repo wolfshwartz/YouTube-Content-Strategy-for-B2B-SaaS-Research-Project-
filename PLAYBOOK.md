@@ -30,7 +30,7 @@ An operating procedure for a B2B SaaS company starting or restarting a YouTube c
 >
 > **The failure this prevents** is the most common one in the entire research set: a company launches a channel, a second channel, a repurposing pipeline, and three content formats simultaneously, exhausts itself by video eight, and concludes YouTube does not work for B2B. It was never given the chance to.
 >
-> **One caution against the opposite error.** "Be patient" is not a licence to spend indefinitely. Patience is only defensible when paired with the exit conditions in [Original idea 2](#original-idea-2-define-kill-criteria-before-publishing-video-one): decide *before* you publish video one what result would tell you the format is wrong, so that "give it time" never becomes unfalsifiable.
+> **One caution against the opposite error.** "Be patient" is not a licence to spend indefinitely. Patience is only defensible when paired with the exit conditions in [Original idea 2](#original-idea-2-decide-what-failure-looks-like-before-you-publish-video-one): decide *before* you publish video one what result would tell you the format is wrong, so that "give it time" never becomes an argument you can never lose.
 
 ---
 
@@ -314,27 +314,53 @@ Worth noting where that leaves the advice: the very channel this video is publis
 
 ## My original ideas
 
-### Original idea 1: The lost-deal objection ledger as the content backlog
+### Original idea 1: Let your lost deals pick your next video
 
-**The idea.** Maintain a running ledger of every objection and question raised in sales calls, tagged with three fields: how often it comes up, at which deal stage, and whether the deal was ultimately won or lost. Prioritise the video queue by *frequency multiplied by loss rate*, not by search volume or outlier scores. The top objection that correlates with losses becomes the next video.
+**The idea in one sentence.** Write down the questions prospects ask in sales calls, then make videos about the ones that keep losing you deals.
 
-**Why this is not in the sources.** All ten prioritise by what is *popular*: search volume (Sam Oh, Greg Miroslaw), outlier view multipliers (Jake Trinder, Marlon Doll), or trending topics. Kyle Denhoff comes closest, mentioning that research includes reviewing sales calls and talking to customers, but he treats it as one input among several rather than a prioritisation mechanism, and no source ties video selection to revenue actually being lost (source: Kyle Denhoff, YouTube, 23.06.2026).
+**How it works.** One shared spreadsheet. After every sales call, the rep adds a row or ticks an existing one. Once a month, marketing sorts it and takes the top row as the next video.
 
-**Why it could work.** Three reasons. First, it fixes the attribution problem that kills B2B YouTube programmes internally: a video built from the #1 recorded loss reason has a pre-existing, quantified revenue case, which is exactly the constraint Kyle identifies when he starts at the bottom of the funnel to justify further investment. Second, it produces content nobody else can make, because objection patterns are proprietary to your pipeline, which satisfies Kyle's expertise-and-original-perspective criterion by construction. Third, it directly serves the AEO shift: Kyle predicts buyers will increasingly ask LLMs about pricing, features, and comparisons, and a lost-deal ledger is a literal ranked list of the questions your buyers ask before deciding (source: Kyle Denhoff, YouTube, 23.06.2026).
+| Question the prospect asked | Times asked | Deals lost after it came up | Score (asked × lost) |
+|---|---|---|---|
+| "How are you different from [competitor]?" | 14 | 9 | **126** |
+| "Does it integrate with our CRM?" | 22 | 3 | 66 |
+| "How long does onboarding take?" | 11 | 4 | 44 |
+| "Is our data secure?" | 8 | 2 | 16 |
 
-**How to run it.** One shared sheet. Sales logs objections after each call, taking under a minute. Marketing reviews monthly, sorts by frequency × loss rate, and takes the top item into the next video brief. Success measure: does the win rate on deals where that objection appears improve for prospects who watched the video, versus those who did not.
+In this example your next video is a comparison against that competitor. Notice what the score protects you from: the CRM question gets asked most often, so it would win on frequency alone, but people ask it and buy anyway. The competitor question comes up less and costs you far more. **Popular is not the same as expensive.**
 
-**Honest limitation.** This biases toward bottom and middle of funnel by design and will not build top-of-funnel reach, so it should sit alongside Samu's 40/30/30 rather than replace it. It also requires sales to log consistently, which is a real organisational cost and the most likely reason it fails.
+**Why this is not in the sources.** All ten pick topics by what is *popular*: search volume (Sam Oh, Greg Miroslaw), high view counts in the niche (Jake Trinder, Marlon Doll), or trends. Kyle Denhoff gets closest, saying research should include listening to sales calls, but he treats that as one input among many, not as the thing that decides what you film next (source: Kyle Denhoff, YouTube, 23.06.2026 — https://youtu.be/6TBAHC7ksbU). Nobody links video choice to revenue you are actually losing.
 
-### Original idea 2: Define kill criteria before publishing video one
+**Why it could work.** Three reasons:
 
-**The idea.** Before the first upload, write down the specific numbers at which you will conclude the *format* is wrong rather than concluding you were not consistent enough. For example: after 12 published videos, if median average view duration is below 25% and median click-through rate is below 3%, stop and change the format rather than publishing 12 more.
+1. **It gives you a budget argument.** "This video targets the objection that appeared in nine lost deals last quarter" survives a review meeting. "This keyword gets 2,000 searches a month" does not.
+2. **Competitors cannot copy it.** These patterns come out of your own pipeline. Nobody else can see your lost deals, so the resulting video is automatically differentiated.
+3. **It matches how buyers now search.** Kyle Denhoff expects buyers to increasingly ask AI tools about pricing, features, and comparisons before talking to sales (source: Kyle Denhoff, YouTube, 23.06.2026). This spreadsheet is literally a ranked list of those questions.
 
-**Why this is not in the sources.** Every source that gives a time commitment gives only the commitment, never the exit condition. Greg Miroslaw says one video a week for 90 days before judging results (source: Greg Miroslaw, YouTube, 18.05.2026). Kyle Denhoff says one video every two weeks for three months, then see how it goes (source: Kyle Denhoff, YouTube, 23.06.2026). Neither says what "it went badly" looks like, which makes "be consistent" unfalsifiable and turns a reasonable heuristic into an argument for indefinite spending.
+**How to check it worked.** Take deals where that objection came up. Compare the win rate for prospects who watched the video against those who did not.
 
-**Why it could work.** It converts the consistency advice, which is well-evidenced, into something a marketing lead can actually defend in a budget review, and it distinguishes the two failure modes the sources conflate. A channel can fail because it did not run long enough, or because the format was wrong from the start, and the prescribed response to those is opposite. Setting thresholds in advance also removes the motivated reasoning that sets in once someone has personally appeared in 12 videos.
+**Where it falls short.** This only produces middle and bottom-of-funnel videos, so it cannot grow your reach on its own and has to run alongside the 40/30/30 mix ([2.1](#phase-2-content-architecture-the-three-layers)). It also dies quietly if sales stop filling in the sheet, which is the most likely way it fails.
 
-**Honest limitation.** I am picking the specific thresholds (25% AVD, 3% CTR) by inference from the sources' emphasis on those two metrics as the primary algorithmic signals (source: Kyle Denhoff, YouTube, 23.06.2026), not from published benchmark data, and appropriate thresholds almost certainly vary by niche and video length. The thresholds are illustrative; the practice of setting them in advance is the actual recommendation.
+### Original idea 2: Decide what failure looks like before you publish video one
+
+**The idea in one sentence.** Before you upload anything, write down the numbers that would tell you the *format* is wrong, so that "keep going" never becomes the only possible answer.
+
+**Write down something like this, and date it:**
+
+> After **12** videos published on schedule, we review. If the typical video holds under **25%** of its audience (average view duration) and under **3%** of people who see the thumbnail click it (click-through rate), we change the format instead of publishing 12 more.
+
+**Why this is not in the sources.** Every source gives you a commitment but never an exit. Greg Miroslaw says one video a week for 90 days before judging (source: Greg Miroslaw, YouTube, 18.05.2026 — https://www.youtube.com/watch?v=gZZ5D1bceMA). Kyle Denhoff says one every two weeks for three months, then see how it goes (source: Kyle Denhoff, YouTube, 23.06.2026). Neither says what "it went badly" actually looks like. So when 90 days pass and nothing has happened, the only advice left is "be more consistent", and that can run forever.
+
+**Why it could work.** A channel can underperform for two completely different reasons, and the correct response to each is the opposite of the other:
+
+| Why it is not working | What you should do |
+|---|---|
+| It has not run long enough yet | Keep going. Same format, same schedule. |
+| The format is wrong | Change it. Twelve more videos will not fix it. |
+
+Without a number agreed in advance, you cannot tell these two apart, and you will pick whichever one you prefer to believe. That gets harder to resist once someone has personally been on camera a dozen times.
+
+**Where it falls short.** I chose 25% and 3% myself. They come from the two metrics Kyle Denhoff names as the main signals YouTube reacts to (source: Kyle Denhoff, YouTube, 23.06.2026), not from published benchmarks, and the right numbers will differ by industry and video length. **Treat the numbers as an example. The recommendation is the habit of agreeing them before you start, not these specific figures.**
 
 ---
 
