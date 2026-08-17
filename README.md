@@ -33,4 +33,6 @@ Key patterns I noticed across sources:
 - **Packaging (title + thumbnail) is treated as the highest-leverage lever for clicks** — repeatedly described as more important than the video itself, since its only job is to stop the scroll and get the title read.
 - **Consistency beats one-off virality.** Several sources gave a specific commitment threshold (e.g. one video/week for at least 90 days) before judging whether a strategy is working.
 - **Genuine practitioners back claims with specific, checkable numbers** (view counts, revenue, subscriber growth) rather than vague claims — this held up in practice as the clearest signal separating real practitioners from generic advice-givers.
-- **Author:** Chanatip Thawatwong (Fame) — Bangkok, Thailand · [runitagency.online](https://runitagency.online) · famety1230@gmail.com
+
+
+**Author:** Chanatip Thawatwong (Fame) — Bangkok, Thailand · [runitagency.online](https://runitagency.online) · famety1230@gmail.com
